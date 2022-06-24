@@ -1,0 +1,14 @@
+{
+    "name": "wfrp4e-blood-and-bramble",
+    "title": "WFRP4e - Blood and Bramble",
+    "description": "Blood and Bramble",
+    "version": "1.0.0",
+    "author": "Veshkuul",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "packs": [
+        
+    ],
+    "url": "https://github.com/Veshkuul/wfrp4e-blood-and-bramble",
+    "manifest": "https://github.com/Veshkuul/wfrp4e-blood-and-bramble/releases/download/1.0.0/module.json"
+}
